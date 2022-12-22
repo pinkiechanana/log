@@ -1,2 +1,2 @@
 # log
--for keeping track of what I am learning-
+keeping records of what I learned
